@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/859fef46c6734efa9cf74d4a19d94986)](https://app.codacy.com/manual/buchgit/sfg-pet-clinic?utm_source=github.com&utm_medium=referral&utm_content=buchgit/sfg-pet-clinic&utm_campaign=Badge_Grade_Settings)
 [![CircleCI](https://circleci.com/gh/springframeworkguru/sfg-pet-clinic.svg?style=svg)](https://circleci.com/gh/springframeworkguru/sfg-pet-clinic)
 
 # Spring Framework Guru Pet Clinic
