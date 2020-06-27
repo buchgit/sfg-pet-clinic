@@ -1,5 +1,5 @@
 [![CircleCI](https://circleci.com/gh/springframeworkguru/sfg-pet-clinic.svg?style=svg)](https://circleci.com/gh/springframeworkguru/sfg-pet-clinic)
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a2d17c618a2842b3adaa969ff7e1c91e)](https://www.codacy.com/manual/buchgit/sfg-pet-clinic?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=buchgit/sfg-pet-clinic&amp;utm_campaign=Badge_Grade)
 # Spring Framework Guru Pet Clinic
 
 This repo is for my online course called [Spring Framework 5: Beginner to Guru](https://www.udemy.com/spring-framework-5-beginner-to-guru/?couponCode=GITHUB_SFGPETCLINIC).
